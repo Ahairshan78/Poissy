@@ -1,0 +1,12 @@
+.blue{
+    background-color:blue !important; 
+}
+.whitepolicy,.white{
+    color:white !important;
+}
+.topalign{
+    margin-top: 15px !important;
+}
+.whitepolicy:hover{
+    text-decoration: underline;
+}
