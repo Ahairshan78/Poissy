@@ -30,3 +30,17 @@
 .article{
     background-color: #E9E9E9;
 }
+.topalignBis{
+    margin-top: 40px;
+}
+a{
+    color: black;
+}
+a:hover{
+    text-decoration: none;
+    color: black;
+}
+.title:hover{
+    color: blue;
+    text-decoration: underline;
+}
